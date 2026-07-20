@@ -1,0 +1,5 @@
+dashboard_indices-primarios/
+├── .streamlit/
+│   └── config.toml
+├── dashboard_v4.py
+└── requirements.txt
